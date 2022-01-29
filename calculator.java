@@ -1,3 +1,4 @@
+/* This is a Simple demo Show Caluclator */
 import java.util.Scanner;
 
  public class calculator
