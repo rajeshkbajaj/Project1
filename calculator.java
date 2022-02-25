@@ -1,4 +1,5 @@
 /* This is a Simple demo Show Caluclator */
+/* This program will do all basic add/sub/mul/divi operations*/
 import java.util.Scanner;
 
  public class calculator
